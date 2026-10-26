@@ -10,7 +10,7 @@
 ---
 
 #### 🧰 Tech Stack & Tools
-![macOS](https://img.shields.io/badge/macOSVentura-black?logo=apple)
+![macOS](https://img.shields.io/badge/macOS-black?logo=apple)
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visualstudiocode)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)
 
