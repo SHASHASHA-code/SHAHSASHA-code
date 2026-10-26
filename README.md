@@ -2,7 +2,7 @@
 
 **A Mac Power User & Hobbyist Game Developer.**
 
-- 🍎 **Mac Tinkerer:** I love customizing macOS to its absolute limits. (Current setup: Notchy, Stats, AlDente.
+- 🍎 **Mac Tinkerer:** I love customizing macOS to its absolute limits. (Current setup: Notchy, Stats, AlDente).
 - 🎮 **Game Dev Hobbyist:** Writing small games(Flight simulator and 2D Story-driven games) in my spare time using JavaScript
 - ✈️ **Aviation Enthusiast:** Big fan of Flightradar24 Airplane photography and ADS-B tracking.
 
